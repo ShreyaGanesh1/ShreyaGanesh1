@@ -50,17 +50,6 @@
 
 ---
 
-### ⚙️ Backend
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/MongoDB-e6ccff?style=for-the-badge&logo=mongodb&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-e6ccff?style=for-the-badge&logo=mysql&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-e6ccff?style=for-the-badge&logo=supabase&logoColor=black"/>
-
-</p>
-
----
 
 ### 🧰 Tools & Platforms
 
@@ -122,7 +111,7 @@
 
 ---
 
-# 📬 Find Me On
+#  Find Me On 💜
 
 <p align="center">
 
@@ -140,7 +129,6 @@
 
 <p align="center">
 
-💜 *"Code. Learn. Build. Repeat."*  
-🚀 *Exploring technology one commit at a time.*
+
 
 </p>
