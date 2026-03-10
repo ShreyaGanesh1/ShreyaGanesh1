@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc99ff,100:e6ccff&height=200&section=header&text=Shreya%20Ganesh%20🚀&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CSE%20AI%2FML%20Student%20%7C%20Space%20Enthusiast%20%7C%20Coffee%20Powered%20Coder&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc99ff,100:e6ccff&height=200&section=header&text=Shreya%20Ganesh%20🚀&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CSE%20AI%2FML%20Student%20|%20Space%20Enthusiast%20|%20Coffee%20Powered%20Coder&descAlignY=55&descSize=18"/>
 </p>
 
 <p align="center">
@@ -27,12 +27,12 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-e6ccff?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-e6ccff?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-e6ccff?style=for-the-badge&logo=java&logoColor=black"/>
-<img src="https://img.shields.io/badge/C-e6ccff?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-e6ccff?style=for-the-badge&logo=c%2B%2B&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-e6ccff?style=for-the-badge&logo=mysql&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-E6CCFF?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-E6CCFF?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-E6CCFF?style=for-the-badge&logo=openjdk&logoColor=black"/>
+<img src="https://img.shields.io/badge/C-E6CCFF?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-E6CCFF?style=for-the-badge&logo=c%2B%2B&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-E6CCFF?style=for-the-badge&logo=mysql&logoColor=black"/>
 
 </p>
 
@@ -42,40 +42,40 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/HTML5-e6ccff?style=for-the-badge&logo=html5&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS3-e6ccff?style=for-the-badge&logo=css3&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-e6ccff?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E6CCFF?style=for-the-badge&logo=html5&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-E6CCFF?style=for-the-badge&logo=css3&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-E6CCFF?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 </p>
 
----
 
+---
 
 ### 🧰 Tools & Platforms
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/VS%20Code-e6ccff?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-e6ccff?style=for-the-badge&logo=git&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub-e6ccff?style=for-the-badge&logo=github&logoColor=black"/>
-<img src="https://img.shields.io/badge/Figma-e6ccff?style=for-the-badge&logo=figma&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-e6ccff?style=for-the-badge&logo=supabase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vercel-e6ccff?style=for-the-badge&logo=vercel&logoColor=black"/>
-<img src="https://img.shields.io/badge/Google%20Colab-e6ccff?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-<img src="https://img.shields.io/badge/Markdown-e6ccff?style=for-the-badge&logo=markdown&logoColor=black"/>
-<img src="https://img.shields.io/badge/Canva-e6ccff?style=for-the-badge&logo=canva&logoColor=black"/>
+<img src="https://img.shields.io/badge/VS%20Code-E6CCFF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-E6CCFF?style=for-the-badge&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-E6CCFF?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Figma-E6CCFF?style=for-the-badge&logo=figma&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-E6CCFF?style=for-the-badge&logo=supabase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vercel-E6CCFF?style=for-the-badge&logo=vercel&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google%20Colab-E6CCFF?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Markdown-E6CCFF?style=for-the-badge&logo=markdown&logoColor=black"/>
+<img src="https://img.shields.io/badge/Canva-E6CCFF?style=for-the-badge&logo=canva&logoColor=black"/>
 
 </p>
 
 ---
 
-## 📊 Advanced GitHub Stats
+# 📊 Advanced GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShreyaGanesh1&show_icons=true&theme=radical&bg_color=0D0D0D&title_color=C792EA&icon_color=C792EA&text_color=ffffff&hide_border=true" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShreyaGanesh1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C792EA&icon_color=C792EA&text_color=FFFFFF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaGanesh1&layout=compact&theme=radical&bg_color=0D0D0D&title_color=C792EA&text_color=ffffff&hide_border=true&langs_count=8" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaGanesh1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C792EA&text_color=FFFFFF"/>
 
 </p>
 
@@ -85,7 +85,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyaGanesh1&theme=radical&background=0D0D0D&ring=C792EA&fire=C792EA&currStreakLabel=C792EA&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ShreyaGanesh1&theme=radical&hide_border=true&background=0D1117&ring=C792EA&fire=C792EA&currStreakLabel=C792EA"/>
 
 </p>
 
@@ -95,7 +95,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyaGanesh1&bg_color=0D0D0D&color=C792EA&line=C792EA&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShreyaGanesh1&bg_color=0D1117&color=C792EA&line=C792EA&point=FFFFFF&area=true&hide_border=true"/>
 
 </p>
 
@@ -105,7 +105,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -128,7 +128,6 @@
 ---
 
 <p align="center">
-
 
 
 </p>
