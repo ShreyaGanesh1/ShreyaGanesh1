@@ -1,9 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc99ff,100:e6ccff&height=200&section=header&text=Shreya%20Ganesh%20🚀&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CSE%20AI%2FML%20Student%20|%20Space%20Enthusiast%20|%20Coffee%20Powered%20Coder&descAlignY=55&descSize=18"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=C792EA&center=true&vCenter=true&width=650&lines=CSE+AI%2FML+Student;Machine+Learning+Learner;Space+Enthusiast+🌌;Coffee+Powered+Developer+☕;Open+to+Collaborations+🤝"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cc99ff,100:e6ccff&height=200&section=header&text=Shreya%20Ganesh%20🚀&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CSE%20AI%2FML%20Student%20|%20Hustler%20|%20Coffee%20Powered%20Coder&descAlignY=55&descSize=18"/>
 </p>
 
 ---
@@ -17,7 +13,7 @@
 - 🌌 **Space enthusiast**
 - 🚀 Passionate about **coding, AI and tech**
 - 🤝 Looking forward to **collaborating on projects**
-- 🎤 Hobbies: **Singing & Cooking**
+- 🎤 Hobbies: **Singing ,Cooking, Dancing ,Sleeping**
 
 ---
 
@@ -48,6 +44,17 @@
 
 </p>
 
+---
+
+### ⚙ Backend
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-E6CCFF?style=for-the-badge&logo=mongodb&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-E6CCFF?style=for-the-badge&logo=mysql&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-E6CCFF?style=for-the-badge&logo=supabase&logoColor=black"/>
+
+</p>
 
 ---
 
@@ -69,28 +76,6 @@
 
 ---
 
-# 📊 Advanced GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShreyaGanesh1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C792EA&icon_color=C792EA&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyaGanesh1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C792EA&text_color=FFFFFF"/>
-
-</p>
-
----
-
-# 🔥 Streak Stats
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ShreyaGanesh1&theme=radical&hide_border=true&background=0D1117&ring=C792EA&fire=C792EA&currStreakLabel=C792EA"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -101,17 +86,7 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-#  Find Me On 💜
+# 📬 Find Me On 💜
 
 <p align="center">
 
