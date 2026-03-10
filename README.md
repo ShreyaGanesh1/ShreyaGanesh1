@@ -13,7 +13,7 @@
 - 🌌 **Space enthusiast**
 - 🚀 Passionate about **coding, AI and tech**
 - 🤝 Looking forward to **collaborating on projects**
-- 🎤 Hobbies: **Singing ,Cooking, Dancing ,Sleeping**
+- 🎤 Hobbies: **Singing, Cooking, Dancing, Sleeping**
 
 ---
 
@@ -46,8 +46,6 @@
 
 ---
 
-
-
 ### 🧰 Tools & Platforms
 
 <p align="center">
@@ -76,7 +74,7 @@
 
 ---
 
-# 📬 Find Me On 💜
+#  Find Me On !
 
 <p align="center">
 
@@ -88,11 +86,14 @@
 <img src="https://img.shields.io/badge/LinkedIn-C792EA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://shreyaganesh1.github.io/shreya-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-cc99ff?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-
-
+✨ Always learning • Always building • Always curious ✨
 </p>
