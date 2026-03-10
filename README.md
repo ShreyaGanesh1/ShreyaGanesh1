@@ -69,7 +69,7 @@
 
 ---
 
-# 📊 Advanced GitHub Stats
+## 📊 Advanced GitHub Stats
 
 <p align="center">
 
