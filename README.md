@@ -46,17 +46,7 @@
 
 ---
 
-### ⚙ Backend
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/MongoDB-E6CCFF?style=for-the-badge&logo=mongodb&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-E6CCFF?style=for-the-badge&logo=mysql&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-E6CCFF?style=for-the-badge&logo=supabase&logoColor=black"/>
-
-</p>
-
----
 
 ### 🧰 Tools & Platforms
 
