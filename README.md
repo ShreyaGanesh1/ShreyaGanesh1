@@ -102,11 +102,11 @@ AI • Web Development • Problem Solving • Building Real Projects
 
 <p align="center">
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:shreyag161206@gmail.com">
 <img src="https://img.shields.io/badge/Email-c792ea?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="www.linkedin.com/in/shreya-ganesh-718157355">
 <img src="https://img.shields.io/badge/LinkedIn-c792ea?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
